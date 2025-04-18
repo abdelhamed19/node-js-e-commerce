@@ -15,11 +15,17 @@ Simple RESTful API to manage products and categories using **Node.js**, **Expres
 
 ---
 
-## 📁 Project Structure
-```bash
-project/ ├── app/ │ ├── controllers/ # Request handlers (logic) │ ├── models/ # Mongoose schemas │ ├── requests/ # Validation logic │ ├── helpers/ # Custom helper functions ├── config/ # DB connection & other configs ├── routes/ # API route definitions ├── index.js # App entry point ├── .env # Environment variables └── README.md # Project info
-
-```
+project/
+├── app/
+│   ├── controllers/    
+│   ├── models/         
+│   ├── requests/       
+│   ├── helpers/            
+├── config/
+├── routes/
+├── public/index.js
+├── .env
+└── README.md
 
 ## 📦 Installation
 
