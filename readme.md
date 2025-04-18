@@ -15,11 +15,23 @@ Simple RESTful API to manage products and categories using **Node.js**, **Expres
 
 ---
 
+## 📁 Project Structure
+```bash
+project/
+├── controllers/
+├── models/
+├── routes/
+├── config/
+├── index.js
+├── .env
+└── README.md
+```
+
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abdelhamed19/node-js-e-commerce.git
+cd node-js-e-commerce
 npm install
 ```
 
