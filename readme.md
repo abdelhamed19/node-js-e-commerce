@@ -16,6 +16,7 @@ Simple RESTful API to manage products and categories using **Node.js**, **Expres
 ---
 ## 📁 Project Structure
 
+```bash
 project/
 ├── app/
 │   ├── controllers/    
@@ -27,6 +28,7 @@ project/
 ├── public/index.js
 ├── .env
 └── README.md
+```
 
 ## 📦 Installation
 
