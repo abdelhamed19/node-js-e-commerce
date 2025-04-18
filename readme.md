@@ -14,6 +14,7 @@ Simple RESTful API to manage products and categories using **Node.js**, **Expres
 - Structured project with MVC pattern
 
 ---
+## 📁 Project Structure
 
 project/
 ├── app/
